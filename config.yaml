@@ -75,7 +75,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/@parimalrahulgaurkhede222"
     - name: "cv"
-      url: "https://drive.google.com/file/d/13vT7IQjZ_EHgf7VN7yoyMYyE3xOttIkh/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1FDRoD0gXdxjwazVWCl1neDCqxm43izE6/view?usp=sharing"
 
   # text search
   fuseOpts:
